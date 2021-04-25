@@ -1,0 +1,7 @@
+Different Display Types
+CRT
+The cathode-ray tube (CRT) is a vacuum tube containing one or more electron guns, the beams of which are manipulated to display images on a phosphorescent screen. It was used in old television sets and computer monitors.
+LCD
+A liquid-crystal display (LCD) is a flat-panel display or other electronically modulated optical device that uses the light-modulating properties of liquid crystals combined with polarizers. LCDs are available in a general-purpose computer display.
+LED
+LED Display (light-emitting diode display) is a screen display technology that uses a panel of LEDs as the light source.
